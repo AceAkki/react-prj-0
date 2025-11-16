@@ -3,7 +3,7 @@ export default function Header() {
     <header className="header">
       <nav className="nav-bar">
         <div className="logo-wrap">
-          <img src="/src/assets/react.svg" alt="" className="logo" />
+          <img src="src/assets/react.svg" alt="" className="logo" />
           <span className="logo-txt">ReactFacts</span>
         </div>
 
