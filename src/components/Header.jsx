@@ -1,4 +1,4 @@
-import imgLogo from "src/assets/react.svg"
+import imgLogo from "../assets/react.svg"
 
 export default function Header() {
   return (
